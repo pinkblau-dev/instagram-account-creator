@@ -1,5 +1,3 @@
-# instagram-account-creator
-
 # Instagram Account Creator
 
 
